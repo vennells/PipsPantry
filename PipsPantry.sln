@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipsPantry", "PipsPantry\PipsPantry.csproj", "{783FD367-2E9D-482D-89B7-EFBCB0F0C798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PipsPantry.Tests", "PipsPantry.Tests\PipsPantry.Tests.csproj", "{3D6E5F01-9D0E-4C9D-AB8C-6D58C9D9A291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783FD367-2E9D-482D-89B7-EFBCB0F0C798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783FD367-2E9D-482D-89B7-EFBCB0F0C798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783FD367-2E9D-482D-89B7-EFBCB0F0C798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783FD367-2E9D-482D-89B7-EFBCB0F0C798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6E5F01-9D0E-4C9D-AB8C-6D58C9D9A291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6E5F01-9D0E-4C9D-AB8C-6D58C9D9A291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6E5F01-9D0E-4C9D-AB8C-6D58C9D9A291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6E5F01-9D0E-4C9D-AB8C-6D58C9D9A291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
