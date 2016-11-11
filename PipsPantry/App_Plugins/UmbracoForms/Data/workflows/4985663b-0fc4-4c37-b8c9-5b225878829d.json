@@ -1,0 +1,16 @@
+{
+  "id": "4985663b-0fc4-4c37-b8c9-5b225878829d",
+  "name": "Send email to andyvennells@hotmail.com",
+  "form": "e2ba71a2-e7f8-4d7e-852d-5b7fd40b8226",
+  "active": true,
+  "workflowTypeId": "e96badd7-05be-4978-b8d9-b3d733de70a5",
+  "executesOn": "Submitted",
+  "settings": {
+    "Email": "andyvennells@hotmail.com",
+    "SenderEmail": "",
+    "Subject": "The Form '{form_name}' was submitted",
+    "Message": "The Form '{form_name} was submitted, this is the list of values it contained. You can turn this email off under workflows in Umbraco Forms.",
+    "Attachment": ""
+  },
+  "sortOrder": 1
+}

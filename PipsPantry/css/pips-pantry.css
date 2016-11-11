@@ -1,0 +1,15 @@
+.menu-text, header nav ul li span, header nav ul li a {
+  color: #000; }
+  .menu-text:hover, header nav ul li span:hover, header nav ul li a:hover {
+    text-decoration: underline; }
+
+header {
+  background: #fff;
+  padding: 30px 0;
+  position: relative;
+  border-bottom: solid 1px #000; }
+  header nav {
+    background: rgba(204, 204, 204, 0.28);
+    padding-right: 70px; }
+    header nav ul {
+      padding: none; }

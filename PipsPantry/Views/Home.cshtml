@@ -1,0 +1,9 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+
+@CurrentPage.GetGridHtml("content", "fanoe")
+@*@CurrentPage.GetGridHtml("content", "fanoe")*@
+	@*@Umbraco.RenderMacro("FormsRenderScripts")
+	@Umbraco.RenderMacro("FormsRenderForm", new {FormGuid=@Umbraco.Field("contactForm")})*@
